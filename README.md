@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssrkarthikeya
 - 👀 I’m interested in Web development and motorcycles
-- 🌱 I’m currently learning Angular 10 with Webpack 
+- 🌱 I’m currently learning Machine Learning and Data Sciences
 - 💞️ I’m looking to collaborate on Node.js projects
 - 📫 Reach me out on ssr.karthikeya@gmail.com
 
