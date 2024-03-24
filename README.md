@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ssrkarthikeya
-- 👀 I’m interested in Web development and motorcycles
-- 🌱 I’m currently learning Machine Learning and Data Sciences
-- 💞️ I’m looking to collaborate on Node.js projects
+- 👀 I’m interested in ML using Pytorch and CICD pipelines
 - 📫 Reach me out on ssr.karthikeya@gmail.com
 
 <!---
