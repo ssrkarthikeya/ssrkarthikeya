@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sai Kolluri</h1>
-<h3 align="center">🌌🧙‍♂️🤖 Welcome to my GitHub page, where I traverse the galaxy of code like a hitchhiker seeking the ultimate answer to the question of life, the universe, and everything. 🌌🧙‍♂️🤖 When I'm not embarking on an epic LOTR marathon, you'll find me orchestrating the symphony of Continuous Integration and Continuous Deployment in the realms of DevOps. 💻⚙️ While some seek the Ring, I'm more inclined to conjure magic with Generative AI, crafting digital realms where pixels dance to the tune of algorithms. 🎨✨ As a seasoned Software Developer with a penchant for UI enchantment, I'm here to blend the art of design with the science of development. Let's embark on this coding odyssey together! 🚀🔮 "Always bring a towel, but never forget your commit messages." - Guide to the Developer's Galaxy 🌌📝</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssrkarthikeya&label=Profile%20views&color=8000ff&style=plastic" alt="ssrkarthikeya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssrkarthikeya" alt="ssrkarthikeya" /></a> </p>
 
-- 🌱 I’m currently learning **Azure Cloud Development**
-
-- 💬 Ask me about **Angular, Java, Spring Boot**
-
 - 📫 How to reach me **ssr.karthikeya@gmail.com**
 
 - 📄 Know about my experiences [https://www.dropbox.com/scl/fi/i5wdpwma37nhpqzfzudv3/Sai-Sri-Rama-Kolluri-Resume-2024.pdf?rlkey=anf2t228qz52cvers2yqvowe1&dl=0](https://www.dropbox.com/scl/fi/i5wdpwma37nhpqzfzudv3/Sai-Sri-Rama-Kolluri-Resume-2024.pdf?rlkey=anf2t228qz52cvers2yqvowe1&dl=0)
-
-- ⚡ Fun fact **I love pets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
